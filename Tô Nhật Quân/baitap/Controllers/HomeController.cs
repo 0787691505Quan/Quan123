@@ -1,4 +1,4 @@
-﻿using baitap.Context;
+﻿  using baitap.Context;
 using baitap.Models;
 using System;
 using System.Collections.Generic;
@@ -11,11 +11,13 @@ using System.Web.Mvc;
 namespace baitap.Controllers
 {
     public class HomeController : Controller
+
     {
         QuanlybanhangEntities objQuanlybanhangEntities = new QuanlybanhangEntities();
         public ActionResult Index()
         {
             HomeModel objHomeModel = new HomeModel();
+           
             objHomeModel.ListCategory= objQuanlybanhangEntities.Category.ToList();
             objHomeModel.ListProducts = objQuanlybanhangEntities.Products.ToList();
             return View(objHomeModel);
@@ -76,7 +78,7 @@ namespace baitap.Controllers
         {
             return View();
         }
-            
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Login(string email, string password)

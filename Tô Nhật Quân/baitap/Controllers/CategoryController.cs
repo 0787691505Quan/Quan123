@@ -16,10 +16,10 @@ namespace baitap.Controllers
             var lstCategory = objQuanlybanhangEntities.Category.ToList();
             return View(lstCategory);
         }
-        public ActionResult ProductCategory(int Id)
+        public ActionResult ProductCategory(int Id )
         {
-            var listProduct=objQuanlybanhangEntities.Products.Where(n=>n.Id==Id).ToList();
-            return View(listProduct);
+            var lstProduct=objQuanlybanhangEntities.Products.Where(n=>n.CategoryId==Id).ToList();
+            return View(lstProduct);
         }
     }
 }
