@@ -74,11 +74,11 @@
 
                                 <div class="card-banner border-bottom">
                                     <div class="py-3" style="width:80%">
+                                      
+                                            <h6 class="card-title">@item.Name </h6>
 
-                                        <h6 class="card-title">@item.Name </h6>
 
-
-                                        <a href="#https://localhost:44311/Card/Card" class="btn btn-secondary btn-sm"> Source now </a>
+                                            <a href="@Url.Action("ProductCategory", "Category", new { Id = item.id }, null)" class="btn btn-secondary btn-sm"> Nguồn</a>
                                     </div>
                                     <img src="~/Content/images/category/@item.Avartar" height="80" class="img-bg">
                                 </div>
@@ -161,7 +161,8 @@
                     {
 
                         <li class="col-6 col-lg-3 col-md-4">
-                            <a href="#" class="item">
+
+                            <a href="@Url.Action("Detail","Product",new {id = @item.Id })" class="item">
                                 <div class="card-body">
                                     <h6 class="title">Các sản phẩm iphone thịnh hành được nhiều khách hàng yêu thích  </h6>
                                     <img class="img-sm float-right" src="~/Content/images/items/@item.Avartar">
@@ -191,17 +192,17 @@
                     <h5 class="title">SamSung chính hãng</h5>
                     <p>Samsung được sáng lập bởi doanh nhân Lee Byung-chul vào năm 1938, khởi đầu là một công ty buôn bán nhỏ. Sau hơn 3 thập kỷ phát triển, Samsung dần đa dạng  </p>
                     <a href="#" class="btn btn-outline-primary rounded-pill">Source now</a>
-                    <img src="~/Content/images/items/iphone13.jpg" class="img-bg">
+                    <img src="~/Content/images/samsung/samsung.jpg" class="img-bg">
                 </div>
 
             </div> <!-- col.// -->
             <div class="col-md-9">
                 <ul class="row no-gutters bordered-cols">
-                    @foreach (var item in Model.ListProducts.Where(n => n.TyptId == 7).Take(4))
+                    @foreach (var item in Model.ListProducts.Where(n => n.CategoryId== 7).Take(7))
                     {
 
                         <li class="col-6 col-lg-3 col-md-4">
-                            <a href="#" class="item">
+                            <a href="@Url.Action("Detail","Product",new {id = @item.Id })" class="item">
                                 <div class="card-body">
                                     <h6 class="title">Các sản phẩm được bán chạy nhất trên thị trường  </h6>
                                     <img class="img-sm float-right" src="~/Content/images/samsung/@item.Avartar">
@@ -251,12 +252,7 @@
                         <div class="input-group">
                             <input class="form-control" placeholder="Số lượng" name="" type="text">
 
-                            <select class="custom-select form-control">
-                                <option>Miếng</option>
-                                <option>lít</option>
-                                <option>tấn</option>
-                                <option>ngữ pháp</option>
-                            </select>
+                           
                         </div>
                     </div>
                     <div class="form-group text-muted">
@@ -292,11 +288,11 @@
 
 
         <div class="row row-sm">
-            @foreach (var item in Model.ListProducts.Where(n => n.TyptId == 3).Take(4))
+            @foreach (var item in Model.ListProducts.Where(n => n.TyptId == 2).Take(20))
             {
                 <div class="col-xl-2 col-lg-3 col-md-4 col-6">
                     <div href="#" class="card card-sm card-product-grid">
-                        <a href="#" class="img-wrap"> <img src="~/Content/images/items/@item.Avartar"> </a>
+                        <a href="@Url.Action("Detail","Product",new {id = @item.Id })" class="img-wrap"> <img src="~/Content/images/items/@item.Avartar"> </a>
                         <figcaption class="info-wrap">
                             <a href="#" class="title">@item.Name</a>
                             <div class="price mt-1">$@item.Price</div> <!-- price-wrap.// -->
@@ -308,29 +304,7 @@
         </div>
         <!-- container end.// -->
         <!-- =============== SECTION SERVICES =============== -->
-        <section class="padding-bottom">
-
-            <header class="section-heading heading-line">
-                <h4 class="title-section text-uppercase">Dịch vụ thương mại</h4>
-            </header>
-            @foreach (var item in Model.ListProducts.Where(n => n.TyptId == 1).Take(7))
-            {
-
-                <div class="hàng ngang">
-                    <div class="col-md-3 col-sm-6">
-                        <article class="card card-post">
-                            <a href="#" class="img-wrap"> <img src="~/Content/images/items/@item.Avartar"> </a>class="card-img-top">
-                            <p class="text-muted"><i class="fa fa-map-marker-alt"></i> @item.Name</p>
-                            <div class="price mt-1">$@item.Price</div>
-                            <div class="card-body">
-                                <h6 class="title">Đảm bảo thương mại</h6>
-                                <p class="small text-uppercase text-muted">Bảo vệ đơn hàng</p>
-                            </div>
-                        </article>
-                        </div>
-                    </div>
-            }
-            </section>
+       
         <!-- =============== SECTION SERVICES .//END =============== -->
         <!-- =============== SECTION REGION =============== -->
         <section class="padding-bottom">
@@ -374,7 +348,7 @@
                                 <button type="submit" class="btn btn-block btn-warning"> <i class="fa fa-envelope"></i> Subscribe </button>
                             </div> <!-- col.// -->
                         </form>
-                        <small class="form-text text-white-50">We’ll never share your email address with a third-party. </small>
+                        <small class="form-text text-white-50">Chúng tôi sẽ không bao giờ chia sẻ địa chỉ email của bạn với bên thứ ba. </small>
                     </div> <!-- col-md-6.// -->
                 </div>
 

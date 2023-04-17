@@ -10,7 +10,7 @@ namespace baitap.Controllers
     public class ProductController : Controller
     {
         // GET: ProducDetail
-        QuanlybanhangEntities objQuanlybanhangEntities = new QuanlybanhangEntities();
+       QuanlybanhangEntities objQuanlybanhangEntities = new QuanlybanhangEntities();
         // GET: ProducDetail
         public ActionResult Detail(int Id)
         {

@@ -62,18 +62,18 @@ namespace baitap.Areas.admin.Controllers
                 this.LoadData();
                 try
                 {
-                    if (objProduct.ImageUpload != null)
+                    if (objProduct.ImageUpLoad != null)
                     {
                         //iphone.jpg
-                        string fileName = Path.GetFileNameWithoutExtension(objProduct.ImageUpload.FileName);
-                        string extension = Path.GetExtension(objProduct.ImageUpload.FileName);
+                        string fileName = Path.GetFileNameWithoutExtension(objProduct.ImageUpLoad.FileName);
+                        string extension = Path.GetExtension(objProduct.ImageUpLoad.FileName);
                         //jpg
                         fileName = fileName + extension;
                         //iphone.jpg
                         fileName = fileName + "_" + long.Parse(DateTime.Now.ToString("yyyyMMddhhmmss")) + extension;
                         objProduct.Avartar = fileName;
                         //luu file hinh
-                        objProduct.ImageUpload.SaveAs(Path.Combine(Server.MapPath("~/Content/images/items"), fileName));
+                        objProduct.ImageUpLoad.SaveAs(Path.Combine(Server.MapPath("~/Content/images/items"), fileName));
                     }
                     objProduct.CreatedOnUtc = DateTime.UtcNow;
 
@@ -128,13 +128,13 @@ namespace baitap.Areas.admin.Controllers
         public ActionResult Edit(Products objProduct, FormCollection form)
         {
 
-            if (objProduct.ImageUpload != null)
+            if (objProduct.ImageUpLoad != null)
             {
-                string fileName = Path.GetFileNameWithoutExtension(objProduct.ImageUpload.FileName);
-                string extension = Path.GetExtension(objProduct.ImageUpload.FileName);
+                string fileName = Path.GetFileNameWithoutExtension(objProduct.ImageUpLoad.FileName);
+                string extension = Path.GetExtension(objProduct.ImageUpLoad.FileName);
                 fileName = fileName + "_" + long.Parse(DateTime.Now.ToString("yyyyMMddhhmmss")) + extension;
                 objProduct.Avartar = fileName;
-                objProduct.ImageUpload.SaveAs(Path.Combine(Server.MapPath("~/Content/images/items"), fileName));
+                objProduct.ImageUpLoad.SaveAs(Path.Combine(Server.MapPath("~/Content/images/items"), fileName));
             }
 
 

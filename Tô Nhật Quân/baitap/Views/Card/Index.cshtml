@@ -7,7 +7,7 @@
 
 <script type="text/javascript">
     $(function () {
-        $("#removecart").click(function () {
+       $("#removecard").click(function () {
             var model = {};
             //lấy id sản phẩm
             model.Id = $("#productid").val();
@@ -88,11 +88,11 @@
                     </table>
 
                     <div class="card-body border-top">
-                        <a href="#" class="btn btn-primary float-md-right"> Make Purchase <i class="fa fa-chevron-right"></i> </a>
+                        <a href="#" class="btn btn-primary float-md-right"> <i class="fa fa-chevron-right"></i> </a>
 
                     </div>
 
-
+                    <a href="@Url.Action("Index", "Pland")" class="btn btn-primary float-md-right"> <i class="fa fa-chevron-right"></i>Thanh toán </a>
                     <a href="@Url.Action("Index","Home")" class="btn btn-light"> <i class="fa fa-chevron-left"></i> Tiếp tục mua sắm </a>
                 </div>
         </div> <!-- card.// -->
@@ -150,28 +150,35 @@
     <div class="container">
         <h6>Chính sách thanh toán và hoàn tiền</h6>
         <p>
-            1. PHƯƠNG THỨC GIAO HÀNG -THANH TOÁN TẠI NHÀ(TIỀN MẶT-THẺ(THẺ VISA,THẺ TÍN DỤNG.....):
+            1. Quy định về thanh toán
+            Khách hàng có thể lựa chọn các hình thức thanh toán sau để thanh toán cho giao dịch trên website Anh ngữ ZIM
 
-            Phương thức Giao hàng - Thanh toán tại nhà chỉ áp dụng đối với khu vực TPHCM.
+            Chuyển khoản
 
-            Lưu ý : Phí quẹt thẻ là 2%/ giá trị đơn hàng.
+            Thẻ ATM (Thẻ ghi nợ/thanh toán/trả trước nội địa)
 
+            Thẻ tín dụng thẻ, thẻ ghi nợ, thẻ trả trước quốc tế
 
+            2. Chi tiết các hình thức thanh toán
+            Chuyển khoản: Khách hàng đăng kí dịch vụ thông qua hình thức chuyển khoản có thể sử dụng bất kì tài khoản ngân hàng nào để chuyển đến số tài khoản được cung cấp
+            trên website của Anh ngữ ZIM thông qua giao dịch trực tiếp tại ngân hàng hoặc tính năng thanh toán trực tuyến của Ngân hàng.
 
-            2. PHƯƠNG THỨC THANH TOÁN TRƯỚC:
+            Thẻ ATM (Thẻ ghi nợ/thanh toán /trả trước nội địa): Để thanh toán bằng thẻ ngân hàng nội địa, thẻ của khách hàng phải được đăng ký
+            sử dụng tính năng thanh toán trực tuyến, hoặc ngân hàng điện tử của Ngân hàng. Giao dịch phải được ghi nhận thành công từ thông báo cấp 
+            phép thành công do hệ thống cổng thanh toán trả về (đảm bảo số dư/hạn mức và xác thực khách hàng theo quy định sử dụng của thẻ).
 
-            Chuyển tiền, chuyển khoản, thanh toán trực tiếp bằng tiền mặt hoặc qua thẻ tại văn phòng của chúng tôi.Sau khi nhận được tiền thanh toán chúng tôi sẽ giao hàng và lắp đặt đúng như yêu cầu của khách hàng.
-
-            a. Chuyển tiền/chuyển khoản:
-
-            Áp dụng cho khách hàng ở xa TPHCM và Tỉnh Thành Phố khác  hoặc khách hàng có nhu cầu sử dụng phương thức thanh toán này:
-
+            Thẻ tín dụng, thẻ thanh toán quốc tế, thẻ trả trước quốc tế: Thẻ tín dụng/ghi nợ/trả trước VISA, MasterCard, JCB, Union Pay
+            , Amex của các Ngân hàng trong nước và nước ngoài phát hành. Giao dịch phải được ghi nhận cấp phép thành công do đúng hệ thống 
+            cổng thanh toán trả về (đảm bảo số dư/hạn mức và xác thực khách hàng theo quy định sử dụng của thẻ).
 
         </p>
         <p>
             Thanh toán trực tiếp bằng tiền mặt hoặc thẻ (Thẻ Visa, Thẻ tín dụng...):
 
-            - Trong trường hợp quý khách thanh toán bằng thẻ Visa hoặc Master bằng cách cà thẻ tại Trung tâm của chúng tôi, Quý khách phải mang thẻ và phải đúng chủ thẻ để lấy phiếu và ký nhận phiếu đã thanh toán. Chúng tôi sẽ không chịu trách nhiệm khi quý khách dùng thẻ của người khác để thanh toán. Ngay sau khi kiểm tra và nhận được báo "Có" từ Ngân hàng, chúng tôi sẽ tiến hành xuất hàng và giao hàng cho quý khách trong thời gian sớm nhất. Đặc biệt: Công Ty có hỗ trợ thanh toán bằng thẻ Visa tại nhà.
+            - Trong trường hợp quý khách thanh toán bằng thẻ Visa hoặc Master bằng cách cà thẻ tại Trung tâm của chúng tôi, Quý khách phải mang thẻ và
+            phải đúng chủ thẻ để lấy phiếu và ký nhận phiếu đã thanh toán. Chúng tôi sẽ không chịu trách nhiệm khi quý khách dùng thẻ của người khác để thanh toán.
+            Ngay sau khi kiểm tra và nhận được báo "Có" từ Ngân hàng, chúng tôi sẽ tiến hành xuất hàng và giao hàng cho quý khách trong thời gian sớm nhất. Đặc biệt: 
+            Công Ty có hỗ trợ thanh toán bằng thẻ Visa tại nhà.
         </p>
 
     </div><!-- container // -->

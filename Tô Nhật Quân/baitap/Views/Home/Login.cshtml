@@ -9,7 +9,7 @@
     <div class="col-md-4">
         <div class="card">
             <div class="card-header">
-                Login
+                Đăng nhập
             </div>
             <div class="card-body">
                 @using (Html.BeginForm("Login", "Home", FormMethod.Post))
@@ -17,15 +17,15 @@
                     @Html.AntiForgeryToken()
                     <div class="form-group">
                         @Html.LabelFor(m => m.Email)
-                        @Html.TextBoxFor(m => m.Email, "", new { @class = "form-control", @placeholder = "Email" })
+                        @Html.TextBoxFor(m => m.Email, "", new { @class = "form-control", @placeholder = "Tài khoảng" })
 
                     </div>
                     <div class="form-group">
                         @Html.LabelFor(m => m.Password)
-                        @Html.PasswordFor(m => m.Password, new { @class = "form-control", @placeholder = "Password" })
+                        @Html.PasswordFor(m => m.Password, new { @class = "form-control", @placeholder = "Mật khẩu" })
                     </div>
                     <div class="form-group">
-                        <input type="submit" name="submit" class="btn btn-primary" value="Login" />
+                        <input type="submit" name="submit" class="btn btn-primary" value="Đăng nhập" />
                     </div>
                 }
             </div>

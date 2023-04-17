@@ -25,6 +25,15 @@
     <Property Name="Status" Type="Int32" />
     <Property Name="CreatedOnUtc" Type="DateTime" Precision="3" />
   </EntityType>
+  <EntityType Name="OrderDetail">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="OderId" Type="Int32" Nullable="false" />
+    <Property Name="UserId" Type="Int32" Nullable="false" />
+    <Property Name="Quantity" Type="Int32" Nullable="false" />
+  </EntityType>
   <EntityType Name="Products">
     <Key>
       <PropertyRef Name="Id" />
@@ -80,6 +89,7 @@
   <EntityContainer Name="QuanlybanhangEntities" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Brand" EntityType="Self.Brand" />
     <EntitySet Name="Order" EntityType="Self.Order" />
+    <EntitySet Name="OrderDetail" EntityType="Self.OrderDetail" />
     <EntitySet Name="Products" EntityType="Self.Products" />
     <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
     <EntitySet Name="Users" EntityType="Self.Users" />

@@ -146,3 +146,151 @@ C:\Users\MSI\Downloads\Quân\Tô Nhật Quân\baitap\obj\Debug\baitap.csproj.Cor
 C:\Users\MSI\Downloads\Quân\Tô Nhật Quân\baitap\obj\Debug\baitap.csproj.CopyComplete
 C:\Users\MSI\Downloads\Quân\Tô Nhật Quân\baitap\obj\Debug\baitap.dll
 C:\Users\MSI\Downloads\Quân\Tô Nhật Quân\baitap\obj\Debug\baitap.pdb
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\baitap.dll.config
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\baitap.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\baitap.pdb
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\csc.exe
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\csc.exe.config
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\csc.rsp
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\csi.exe
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\csi.exe.config
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\csi.rsp
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\System.Buffers.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\System.Memory.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\vbc.exe
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\vbc.exe.config
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\vbc.rsp
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\Antlr3.Runtime.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\Castle.Core.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\EntityFramework.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\Newtonsoft.Json.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\NSubstitute.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\PagedList.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\PagedList.Mvc.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Web.Helpers.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Web.Mvc.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Web.Optimization.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Web.Razor.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Web.WebPages.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\WebGrease.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\Castle.Core.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\EntityFramework.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\Newtonsoft.Json.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\NSubstitute.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\PagedList.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\PagedList.Mvc.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Web.Helpers.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Web.Mvc.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Web.Optimization.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Web.Razor.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Web.WebPages.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\bin\Antlr3.Runtime.pdb
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\obj\Debug\baitap.csproj.AssemblyReference.cache
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\obj\Debug\baitap.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\obj\Debug\baitap.csproj.CopyComplete
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\obj\Debug\baitap.dll
+C:\Users\MSI\Downloads\Tô Nhật Quân\Tô Nhật Quân\baitap\obj\Debug\baitap.pdb
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\obj\Debug\baitap.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\obj\Debug\baitap.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\obj\Debug\baitap.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\obj\Debug\baitap.pdb
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\baitap.dll.config
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\baitap.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\baitap.pdb
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\csc.exe
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\csc.exe.config
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\csc.rsp
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\csi.exe
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\csi.exe.config
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\csi.rsp
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\System.Buffers.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\System.Memory.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\vbc.exe
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\vbc.exe.config
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\vbc.rsp
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\VBCSCompiler.exe
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\Antlr3.Runtime.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\Castle.Core.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\EntityFramework.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\EntityFramework.SqlServer.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\Newtonsoft.Json.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\NSubstitute.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\PagedList.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\PagedList.Mvc.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Web.Helpers.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Web.Mvc.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Web.Optimization.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Web.Razor.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Web.WebPages.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Web.WebPages.Razor.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\WebGrease.dll
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\Castle.Core.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\EntityFramework.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\EntityFramework.SqlServer.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\Newtonsoft.Json.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\NSubstitute.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\PagedList.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\PagedList.Mvc.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Web.Helpers.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Web.Mvc.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Web.Optimization.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Web.Razor.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Web.WebPages.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\System.Web.WebPages.Razor.xml
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\bin\Antlr3.Runtime.pdb
+C:\Users\MSI\Desktop\Tô Nhật Quân\baitap\obj\Debug\baitap.csproj.CopyComplete

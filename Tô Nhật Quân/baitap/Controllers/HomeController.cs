@@ -113,5 +113,9 @@ namespace baitap.Controllers
             Session.Clear();//remove session
             return RedirectToAction("Login");
         }
+        public ActionResult Search(String search,int id=0)
+        {
+            return View();
+        }
     }
 }

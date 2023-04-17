@@ -16,27 +16,41 @@ namespace baitap.Context
 
     public partial class Products
     {
+        [Display(Name = "Số ID  ")]
+        [Required(ErrorMessage = "ID sản phẩm không được để trống")]
         public int Id { get; set; }
-       
 
+        [Display(Name = "Tên sản phẩm")]
         public string Name { get; set; }
+        [Display(Name = "Hình ảnh")]
         public string Avartar { get; set; }
+        [Display(Name = "Thể loại ID sản phẩm ")]
         public Nullable<int> CategoryId { get; set; }
+
+      
+        [Display(Name = "Mô tả ngắn")]
         public string ShortDes { get; set; }
+        [Display(Name = "Mô tả đầy đủ ")]
         public string FullDescription { get; set; }
+        [Display(Name = "Giá ")]
         public Nullable<double> Price { get; set; }
+        [Display(Name = "Giảm giá")]
+
         public Nullable<double> PriceDiscount { get; set; }
+        [Display(Name = "ID")]
         public Nullable<int> TyptId { get; set; }
+        [Display(Name = "Loại")]
+
         public string Slug { get; set; }
+        [Display(Name = "Tên sản phẩm")]
         public Nullable<int> BrandId { get; set; }
         public Nullable<bool> Delected { get; set; }
+        [Display(Name = "Hiển thị trang chủ")]
         public Nullable<bool> ShowOnHomePage { get; set; }
         public Nullable<int> DisphayOrder { get; set; }
         public Nullable<System.DateTime> CreatedOnUtc { get; set; }
         public Nullable<System.DateTime> UpdatedOnUtc { get; set; }
-
         [NotMapped]
-        public System.Web.HttpPostedFileBase ImageUpload { get; set; }
+        public System.Web.HttpPostedFileBase ImageUpLoad { get; set; }
     }
 }
-
